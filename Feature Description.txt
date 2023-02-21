@@ -1,0 +1,33 @@
+  Feature	 Description	 
+  A_KEY_TIME_MEAN   - Mean difference between pressing and releasing time for alphanumerical keys	 
+  BOTH_DEV_C_COUNT  - Percentage of situations when mouse click occurred with alphanumeric key event	 
+  BOTH_DEV_CC_COUNT - Percentage of situations when mouse click occurred with combination key events	 
+  BOTH_DEV_M_COUNT  - Percentage of situations when the mouse cursor moved with the alphanumeric key event	 
+  CLUSTERED_KEYS    - At least one functional and alphanumeric key used at the same time	 
+  CLUSTERED_NR_KEYS - Not a reasonable combination of keys used at the same time	 
+  CLUSTERED_R_KEYS  - At least one functional key and no more than one alphanumeric key used at the same time	 
+  DELETE_KEY    - Delete key used	 
+  DELETE_KEYS   - Number of deletion events	 
+  GAP_D1 - GAP_D9	 Deciles of periods between key events	 
+  GAP_SD    - Standard deviation of periods between key events	 
+  KEY_COUNT - The number of pressed keys	 
+  KEY_GAP_TIME_D1 - KEY_GAP_TIME_D9	 Deciles of flight time	 
+  KEY_TIME  - Dwell time	 
+  KEY_TIME_D1 - KEY_TIME_D9	 Deciles of the difference between key pressing and releasing time	 
+  KEY_TIME_MEAN - Mean of difference between key pressing and releasing time	 
+  MANY_KEYS_BY_KEY_PRESSED  - Ratio of multiple-key pressed events to all key events	 
+  MOUSE_CLICK_RATIO - Ratio of mouse clicks to mouse movement events	 
+  MOUSE_COUNT   - Mouse events number	 
+  MOUSE_DDIR_D1 - MOUSE_DDIR_D8	 Summaric distance covered by mouse in each of eight directions	 
+  MOUSE_DIR_D1 - MOUSE_DIR_D9	 Deciles of angle measure for segments traced by mouse	 
+  MOUSE_DIST_D1 - MOUSE_DIST_D9	 Deciles of distance covered by mouse movements	 
+  MOUSE_GAP_D1 - MOUSE_GAP_D9	 Deciles of time between mouse events	 
+  MOUSE_SPEED_D1 - MOUSE_SPEED_D9	Deciles of mouse speed	 
+  MULTIPLE_KEYS_DOWN    - Number of pressed keys	 
+  MULTIPLE_KEYS_DOWN_D1 - MULTIPLE_KEYS_DOWN_D9	 Deciles of keys pressed at the same time	 
+  MULTIPLE_KEYS_UP	- Number of released keys	 
+  MULTIPLE_KEYS_UP_D1 - MULTIPLE_KEYS_UP_D9	 Deciles of keys released at the same time	 
+  R_DELETE  - The number of sequences using delete to remove the last character	 
+  R_DELETE_FREQ - The frequency of sequences using delete to remove the last character	 
+  S_KEY_TIME_MEAN   - Mean difference between pressing and releasing time for special keys	 
+  
