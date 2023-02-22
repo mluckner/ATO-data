@@ -2,7 +2,7 @@
 Keyboard and mouse events dataset collected in ATO project
 
 The presented dataset was computed from the data collected in the supervised experiment during the periods November 2018 - July 2019 
-and August 2019 - December 2019 and was composed of $17\,407$ records from 157 unique users. 
+and August 2019 - December 2019 and was composed of $17\,407$ records from $157$ unique users. 
 
 The median time of data recording for a single user was 17 minutes. The number of records per user varied from 8 to 801, with the median equal to 86. 
 Among all users, 55 ones with at least 100 records were selected.  
