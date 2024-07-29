@@ -21,7 +21,39 @@ The registration and login phases were performed on the same device. Additionall
 
 ## Publication
  
- TBA
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="htmlExportStyleSheet.css" />
+
+<title>S0957417423012381.bib</title> 
+</head>
+
+<body>
+<div class="content">
+<h1>S0957417423012381.bib</h1>
+<dl>
+<dt class="Key" id="GRZENDA2023120736">GRZENDA2023120736</dt>
+<dd class="Pub">
+	<span class="Title">Evaluation of machine learning methods for impostor detection in web applications</span><br />
+	<span class="Author">M. Grzenda, S. Kaźmierczak, M. Luckner, G. Borowik, and J. Mańdziuk</span><br />
+	<span class="Journal">Expert Systems with Applications</span>&nbsp;
+	<span class="Volume">231</span>&nbsp;
+	<span class="Pages">120736</span>&nbsp;
+	(<span class="Date">2023</span>)<br />
+	<span class="URL"><a href="https://www.sciencedirect.com/science/article/pii/S0957417423012381">https://www.sciencedirect.com/science/article/pii/S0957417423012381</a></span><br />
+	<span class="URL"><a href="https://doi.org/10.1016/j.eswa.2023.120736">https://doi.org/10.1016/j.eswa.2023.120736</a></span><br />
+	<div class="Abstract">Applying machine learning (ML) methods to multi-factor authentication is becoming increasingly popular. However, there is no comprehensive methodology to evaluate biometric systems based on machine learning in the literature. This paper proposes a general methodology for evaluation the ML-based systems for impostor recognition/detection using biometric traits. This includes creation of learning and testing sets with appropriate size balance (proportion) between these sets, selecting the number of instances coming from different users, evaluation of the influence of the impostors number on their detection rate, and the impact of the number of records representing user’s behavior. In addition, we propose how the real data (possibly affected by account takeover attempts) could be used to extend the enrollment data to support the impostor detection. The proposed approach was used for a systematic comparison of an extensive set of ML and statistical methods. For some of them, the false acceptance rate (FAR) close to zero and false rejection rate (FRR) smaller than 0.05 in a supervised experiment were accomplished, proving the merit of certain ML-based approaches. Moreover, using the method proposed in the paper, a classifier trained on experimental data achieved FAR below 0.05 on the real-world data collected at an actual financial web page.</div>
+</dd>
+
+</dl>
+</div>
+</body>
+</html>
+
  
  ## Dataset
 The dataset is given in data.csv file
