@@ -34,7 +34,6 @@ The registration and login phases were performed on the same device. Additionall
 <body>
 <div class="content">
 <dl>
-<dt class="Key" id="GRZENDA2023120736">GRZENDA2023120736</dt>
 <dd class="Pub">
 	<span class="Title">Evaluation of machine learning methods for impostor detection in web applications</span><br />
 	<span class="Author">M. Grzenda, S. Kaźmierczak, M. Luckner, G. Borowik, and J. Mańdziuk</span><br />
