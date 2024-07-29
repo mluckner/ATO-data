@@ -29,12 +29,10 @@ The registration and login phases were performed on the same device. Additionall
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="htmlExportStyleSheet.css" />
 
-<title>S0957417423012381.bib</title> 
 </head>
 
 <body>
 <div class="content">
-<h1>S0957417423012381.bib</h1>
 <dl>
 <dt class="Key" id="GRZENDA2023120736">GRZENDA2023120736</dt>
 <dd class="Pub">
